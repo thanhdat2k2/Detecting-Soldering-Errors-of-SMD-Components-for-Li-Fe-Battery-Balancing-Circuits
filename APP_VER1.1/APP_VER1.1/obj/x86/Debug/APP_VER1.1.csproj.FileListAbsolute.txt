@@ -1,0 +1,15 @@
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\bin\Debug\APP_VER1.1.exe
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\bin\Debug\APP_VER1.1.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\obj\x86\Debug\APP_VER1._1.Form1.resources
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\obj\x86\Debug\APP_VER1._1.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\obj\x86\Debug\APP_VER1.1.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\obj\x86\Debug\APP_VER1.1.exe
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\obj\x86\Debug\APP_VER1.1.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\obj\x86\Debug\APP_VER1.1.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\bin\Debug\AForge.dll
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\bin\Debug\AForge.Video.dll
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\bin\Debug\AForge.xml
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\bin\Debug\AForge.Video.xml
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\admin\documents\visual studio 2010\Projects\APP_VER1.1\APP_VER1.1\obj\x86\Debug\APP_VER1._1.Form2.resources
