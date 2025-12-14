@@ -1,0 +1,1 @@
+This is part of the overall project, not the whole thing. For some reason, I couldn't push everything to GitHub. I'm responsible for building the app that controls the entire model and connects it to the AI ​​model (YOLOv8) trained to recognize and classify circuit components.
